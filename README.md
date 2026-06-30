@@ -7,7 +7,8 @@
 зашифровать: python3 stego.py embed входная_картинка.png выходная_картинка.png --password "пароль" --secret "текст_который_прячем"
 расшифровать: python3 stego.py extract картинка.png --password "пароль"
 
-min FAQ
+mini FAQ
+
 A: оно шифрует текст в фотке?
 
 B: Да
